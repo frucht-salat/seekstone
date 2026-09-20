@@ -1,6 +1,6 @@
 {
   "name": "seekstone",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "mcpName": "io.github.shaqmughal/seekstone",
   "type": "module",
   "description": "The Obsidian MCP server that needs no plugin, no running Obsidian app — and doesn't blow your context window. Filesystem-direct: single-digit-ms keyword search, ~26 ms local semantic search, ~2 KB payloads, 21 tools.",
@@ -66,8 +66,8 @@
     "fast-glob": "^3.3.2",
     "minisearch": "^7.1.1",
     "picomatch": "^4.0.7",
-    "yaml": "^2.6.1",
-    "zod": "^4.5.4"
+    "yaml": "^2.9.1",
+    "zod": "^4.6.2"
   },
   "devDependencies": {
     "@seekstone/core": "*",
